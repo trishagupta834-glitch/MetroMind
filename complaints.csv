@@ -1,0 +1,7 @@
+ComplaintID,Station,Route,Status,Description
+CMP-1001,North,Route 1,Open,Platform overcrowding during the morning peak
+CMP-1002,Central,Route 2,Investigating,"Ticket machine rejects valid cards, causing long queues"
+CMP-1003,North,Route 3,Open,Station elevator out of service
+CMP-1004,Airport,Route 2,Resolved,Bus replacement signs are unclear
+CMP-1005,Central,Route 1,Open,"Late trains, overcrowding, and poor platform announcements"
+CMP-1006,Harbor,Route 5,Investigating,Water leak near the station entrance
